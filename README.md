@@ -4,6 +4,30 @@ Your job search, done every morning. It finds fresh postings, keeps only the rol
 
 Nothing about you is built in. The first time you use it, a short interview collects your resume, target roles, location, pay and deal-breakers, and saves them in your own private tracker. It runs as a [skill](https://support.claude.com/en/articles/12512180-using-skills-in-claude) in Claude.
 
+## See it in action
+
+All screenshots use a fictional job seeker and made-up companies.
+
+**Every morning: fresh matches, scored by your odds of being shortlisted**
+
+![Daily matches page](docs/images/daily-matches.png)
+
+**A fit assessment for each role: why you have a shot, what's thin, what to lead with**
+
+![Fit assessment card](docs/images/fit-assessment.png)
+
+**Outreach for the recruiter, the hiring manager and a referral: a connection note plus a full message each**
+
+![LinkedIn outreach messages](docs/images/outreach-messages.png)
+
+**A resume tailored to each posting, as PDF and Word, using only facts from your real resume**
+
+<img src="docs/images/tailored-resume.png" alt="Tailored resume" width="640">
+
+**An application tracker that reads replies from Gmail and learns which roles get you responses**
+
+![Application tracker dashboard](docs/images/tracker-dashboard.png)
+
 ## What you get every morning
 
 For each job that clears the 60% bar (at most 10 a day):
